@@ -1,0 +1,14 @@
+{
+	"name": "zaur",
+	"age": 32,
+	"favorite_film": "The God father",
+	"favorite_book": "Gambler",
+	"favorite_games": {
+		"Stardew_Valley",
+		"Portal",
+		"Firewatch"
+	},
+	"pets": 1,
+	"favorite_food": "Homemade_Pizza",
+	"favorite_serial": "The office"
+}
